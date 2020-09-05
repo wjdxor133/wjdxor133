@@ -7,6 +7,7 @@
   </div>
 
 ### Front-end Developer
+##### 🌱 I’m currently learning ...
 <code>
 	<code><img alt="Html" src="https://user-images.githubusercontent.com/47416686/92299565-4d548280-ef8e-11ea-800d-86b5c28fbcdc.png" width="32"></code>
 	<code><img alt="Sass" src="https://user-images.githubusercontent.com/26512984/88482103-2754bf00-cf9a-11ea-9e2f-075735d3db3c.jpg" width="32"></code>
@@ -14,6 +15,7 @@
 	<code><img alt="Javascript" src="https://user-images.githubusercontent.com/26512984/88481835-aba64280-cf98-11ea-80a7-c6c5ae3a1235.jpg" width="32"></code>
 	<code><img alt="Typescript" src="https://user-images.githubusercontent.com/47416686/92299440-20ec3680-ef8d-11ea-8abb-7e6f39cb1e29.png" width="32"></code>
 	<code><img alt="React" src="https://user-images.githubusercontent.com/26512984/88481963-5d457380-cf99-11ea-8c02-c1b4586cb7ca.jpg" width="32"></code>
+	<code><img alt="Redux" src="https://user-images.githubusercontent.com/47416686/92299597-91478780-ef8e-11ea-9857-253c897b371e.png" width="32"></code>
 	<code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
 	
 </code>
