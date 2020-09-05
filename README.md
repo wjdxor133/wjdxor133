@@ -9,7 +9,8 @@
 ### Front-end Developer
 <code>
 	<code><img alt="Sass" src="https://user-images.githubusercontent.com/26512984/88482103-2754bf00-cf9a-11ea-9e2f-075735d3db3c.jpg" width="32"></code><code><img alt="Styled-Components" src="https://user-images.githubusercontent.com/55340876/89944325-926ce980-dc5a-11ea-9209-cc43422964c7.png" width="32"></code><code><img alt="Javascript" src="https://user-images.githubusercontent.com/26512984/88481835-aba64280-cf98-11ea-80a7-c6c5ae3a1235.jpg" width="32"></code><code><img alt="React" src="https://user-images.githubusercontent.com/26512984/88481963-5d457380-cf99-11ea-8c02-c1b4586cb7ca.jpg" width="32"></code><code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
-</code>  
+</code>
+<br><br>
   <div>
 	
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wjdxor133)](https://github.com/anuraghazra/github-readme-stats)
