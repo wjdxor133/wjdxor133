@@ -7,7 +7,7 @@
   </div>
 
 ### Front-end Developer
-##### 🌱 I’m currently learning ...
+#### 🌱 I’m currently learning ...
 <code>
 	<code><img alt="Html" src="https://user-images.githubusercontent.com/47416686/92299565-4d548280-ef8e-11ea-800d-86b5c28fbcdc.png" width="32"></code>
 	<code><img alt="Sass" src="https://user-images.githubusercontent.com/26512984/88482103-2754bf00-cf9a-11ea-9e2f-075735d3db3c.jpg" width="32"></code>
