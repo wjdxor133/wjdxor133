@@ -12,7 +12,7 @@
   </div>
 
 ### Front-end Developer
-#### 🌱 Language & Skill
+#### 👨‍💻 Language & Skill
 <code>
 	<code><img alt="Html" src="https://user-images.githubusercontent.com/47416686/92299565-4d548280-ef8e-11ea-800d-86b5c28fbcdc.png" width="32"></code>
 	<code><img alt="Css" src="https://user-images.githubusercontent.com/47416686/92299858-2ea3bb00-ef91-11ea-8d20-c6561b1ef711.png" width="32"></code>
