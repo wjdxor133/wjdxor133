@@ -25,7 +25,7 @@
 	<code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
 	
 </code>
-<br><br>
+<br><br><br>
   <div>
 	
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wjdxor133)](https://github.com/anuraghazra/github-readme-stats)
