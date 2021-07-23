@@ -9,7 +9,7 @@
   📫 How to reach me...
   <div>
 	
- [![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/wjdxor133)](https://github.com/wjdxor133)     [![Techblog](http://img.shields.io/badge/-Tech%20blog-2CA5E0?style=flat-square&logo=Bloglovin&logoColor=white&link=https://ljtaek2.tistory.com/)](https://ljtaek2.tistory.com/)     [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdxor1224@gmail.com)](mailto:wjdxor1224@gmail.com) 
+ [![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/wjdxor133)](https://github.com/wjdxor133)     [![Techblog](http://img.shields.io/badge/-Tech%20blog-2CA5E0?style=flat-square&logo=Bloglovin&logoColor=white&link=https://wjdxor133.github.io/)](https://wjdxor133.github.io/)     [![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wjdxor1224@gmail.com)](mailto:wjdxor1224@gmail.com) 
 	
   </div>
 
