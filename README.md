@@ -18,7 +18,6 @@
 	<code><img alt="Javascript" src="https://user-images.githubusercontent.com/26512984/88481835-aba64280-cf98-11ea-80a7-c6c5ae3a1235.jpg" width="32"></code>
 	<code><img alt="Typescript" src="https://user-images.githubusercontent.com/47416686/92299440-20ec3680-ef8d-11ea-8abb-7e6f39cb1e29.png" width="32"></code>
 	<code><img alt="React" src="https://user-images.githubusercontent.com/26512984/88481963-5d457380-cf99-11ea-8c02-c1b4586cb7ca.jpg" width="32"></code>
-	<code><img alt="ReactNative" src="https://user-images.githubusercontent.com/47416686/93730410-6d797800-fc03-11ea-8298-a731c7804f77.png" width="32"></code>
 	<code><img alt="Storybook" src="https://user-images.githubusercontent.com/47416686/117604229-ce07f600-b18f-11eb-913b-960a5d79344f.png" width="32"></code>
 	<code><img alt="Redux" src="https://user-images.githubusercontent.com/47416686/92299597-91478780-ef8e-11ea-9857-253c897b371e.png" width="32"></code>
 	<code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
