@@ -4,8 +4,7 @@
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwjdxor133&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 	
-  </div>
-
+</div>
 
 ### Front-end Developer
 #### 🎨 Language & Skill
@@ -18,10 +17,15 @@
 	<code><img alt="Javascript" src="https://user-images.githubusercontent.com/26512984/88481835-aba64280-cf98-11ea-80a7-c6c5ae3a1235.jpg" width="32"></code>
 	<code><img alt="Typescript" src="https://user-images.githubusercontent.com/47416686/92299440-20ec3680-ef8d-11ea-8abb-7e6f39cb1e29.png" width="32"></code>
 	<code><img alt="React" src="https://user-images.githubusercontent.com/26512984/88481963-5d457380-cf99-11ea-8c02-c1b4586cb7ca.jpg" width="32"></code>
+	<code><img alt="Recoil" src="https://user-images.githubusercontent.com/47416686/220526247-07e3a150-7d13-409e-ab02-36c9f0c9733e.svg" width="32"></code>
+	<code><img alt="Nextjs" src="https://user-images.githubusercontent.com/47416686/220526601-29f669bd-915e-4279-9efd-24bd7eff8d21.png" width="32"></code>
 	<code><img alt="Storybook" src="https://user-images.githubusercontent.com/47416686/117604229-ce07f600-b18f-11eb-913b-960a5d79344f.png" width="32"></code>
-	<code><img alt="Redux" src="https://user-images.githubusercontent.com/47416686/92299597-91478780-ef8e-11ea-9857-253c897b371e.png" width="32"></code>
-	<code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
+	<code><img alt="Framer-motion" src="https://user-images.githubusercontent.com/47416686/220529453-1e086cc4-f2bc-43a2-ab96-1bf6298ef469.png" width="32"></code>
+	<code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32">
+</code>
 </div>
+
+
 <br><br>
   <div>
 	
