@@ -9,7 +9,7 @@
 
 ### Front-end Developer
 #### 🎨 Language & Skill
-<code>
+<div>
 	<code><img alt="Html" src="https://user-images.githubusercontent.com/47416686/92299565-4d548280-ef8e-11ea-800d-86b5c28fbcdc.png" width="32"></code>
 	<code><img alt="Css" src="https://user-images.githubusercontent.com/47416686/92299858-2ea3bb00-ef91-11ea-8d20-c6561b1ef711.png" width="32"></code>
 	<code><img alt="Sass" src="https://user-images.githubusercontent.com/26512984/88482103-2754bf00-cf9a-11ea-9e2f-075735d3db3c.jpg" width="32"></code>
@@ -21,7 +21,7 @@
 	<code><img alt="Storybook" src="https://user-images.githubusercontent.com/47416686/117604229-ce07f600-b18f-11eb-913b-960a5d79344f.png" width="32"></code>
 	<code><img alt="Redux" src="https://user-images.githubusercontent.com/47416686/92299597-91478780-ef8e-11ea-9857-253c897b371e.png" width="32"></code>
 	<code><img alt="Git" src="https://user-images.githubusercontent.com/26512984/88481839-ad700600-cf98-11ea-8168-e795e299b730.png" width="32"></code>
-</code>
+</div>
 <br><br>
   <div>
 	
